@@ -1,0 +1,20 @@
+#common
+.htaccess
+app_config.php
+
+#log and template
+assets/**
+protected/runtime/**
+
+#files and images
+files/works/**
+images/actions/**
+images/avatars/**
+
+#netbeans
+nbproject
+
+#file system on mac
+.DS_Store
+
+

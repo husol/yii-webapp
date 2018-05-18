@@ -1,0 +1,37 @@
+
+/*========= #news_slide ========*/
+#news_slide { 
+	width: 240px;
+    height: 425px;
+    border-radius: 0 0 7px 7px;
+    font-size:12px;
+	background:#EAF4F5; 
+	padding:5px 5px 0;
+	font-family:Verdana,Arial,Sans-Serif;
+}
+#news_slide img {
+    border: 2px solid #FFFFFF;
+}
+
+/*========= .jcarouse ========*/
+#news_slide .jcarouse ul li{
+    list-style:none;
+    display:block;
+    padding-bottom:1px;
+    margin-bottom:5px;
+}
+#news_slide .jcarouse ul li a{
+    display:block;
+    color:#514448;
+}
+#news_slide .jcarouse .thumb {
+    float:left;
+    margin-right: 3px;
+    width:54px;
+    height:54px;
+}
+#news_slide .jcarouse .info {
+    float:right;
+    width:183px;
+}
+.clr { clear: both; }
